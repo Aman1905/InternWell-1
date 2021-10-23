@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0e776c62-1ce2-448a-85da-7ac7e56eee4e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/internwellbackend",
+    "appService.deploySubpath": "."
+}
